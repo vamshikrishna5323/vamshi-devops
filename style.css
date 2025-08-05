@@ -1,4 +1,6 @@
-
+body {
+  background-color: hsl(184, 87%, 94%); // bright blue
+}
 p {
   color: rgba(244, 145, 14, 0.80); // bright orange
 }
